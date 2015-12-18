@@ -1,1 +1,6 @@
-# cautious-octo-potato
+# WELCOME TO OCTOPUS's SITE!
+# My name is SEUNGWOO LEE
+# WELCOME TO MY GIT!
+# LANGUAGE
+# PYTHON
+# And Nothing! HAHAHAHA!
