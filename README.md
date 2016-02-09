@@ -1,8 +1,10 @@
 #Welcome to Jaeseung172's Cautious Octo Potato Page.#
 #This Page Contains...#
+---------------------
 1. Python Sources from me ( Home-Brewed )
 * Especially Virtual Assistant For me.
 * Using some great magical ability.
+---------------------
 2. Some Information About Me.
 - Jaeseung Lee from South Korea
 - Preparing for G.E.D in South Korea
