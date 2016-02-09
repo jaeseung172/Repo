@@ -1,10 +1,2 @@
-# WELCOME TO OCTOPUS's SITE!
- My name is SEUNGWOO LEE
- 
- WELCOME TO MY GIT!
- 
- LANGUAGE
- 
- PYTHON
- 
- And Nothing! HAHAHAHA!
+###Welcome to Jaeseung172's Cautious Octo Potato Site.###
+
