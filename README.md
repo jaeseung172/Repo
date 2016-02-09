@@ -2,8 +2,10 @@
 #This Page Contains...#
 ---------------------
 1. Python Sources from me ( Home-Brewed )
-* Especially Virtual Assistant For me.
-* Using some great magical ability.
+
+Especially Virtual Assistant For me.
+
+Using some great magical ability.
 ---------------------
 2. Some Information About Me.
 - Jaeseung Lee from South Korea
