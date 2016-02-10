@@ -10,7 +10,7 @@ Some Information About Me.
 
 * Jaeseung Lee from South Korea
 * Preparing for G.E.D in South Korea
-* Age 18
+* Age 18 ( Born In 1999 )
 * Live in Metropolitan Area
 * Love English, Pop-Song(Onerepublic, Avicii, Keane, Coldplay, etc..), Coffee
 * I LOVE PYTHON.
