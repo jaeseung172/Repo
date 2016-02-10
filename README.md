@@ -14,7 +14,7 @@ Some Information About Me.
 * Live in Metropolitan Area
 * Love English, Pop-Song(Onerepublic, Avicii, Keane, Coldplay, etc..), Coffee
 * I LOVE PYTHON.
-* Email Me : jaeseung172@naer.com
+* Email Me : jaeseung172@naver.com
 
 
 I hope you have a good time on my Git Page!
