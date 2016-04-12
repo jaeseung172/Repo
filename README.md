@@ -16,5 +16,4 @@ Some Information About Me.
 * I LOVE PYTHON.
 * Email Me : jaeseung172@naver.com
 
-
-I hope you have a good time on my Git Page!
+### Information about Some Files...
