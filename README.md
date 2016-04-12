@@ -16,4 +16,5 @@ Some Information About Me.
 * I LOVE PYTHON.
 * Email Me : jaeseung172@naver.com
 
-### Information about Some Files...
+### File Index
+- R 시작해 보기.ipynb -> Getting Started With R file with ipython notebook
