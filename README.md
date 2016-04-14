@@ -1,5 +1,13 @@
 #Welcome to Jaeseung172's Cautious Octo Potato Page.#
 
+          ,'""`.
+         / _  _ \
+         |(@)(@)|
+         )  __  (
+        /,'))((`.\
+       (( ((  )) ))      hh
+        `\ `)(' /'
+
 ### Python Devlopment
 * Virtual Assistant For me (Really Just For me!)
 * Can be Answer some easy Question. (But It will be contains more Tasks furtermore)
