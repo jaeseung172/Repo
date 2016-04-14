@@ -17,7 +17,7 @@
 Some Information About Me.
 
 * Jaeseung Lee from South Korea
-* PASSED G.E.D in South Korea [PROFILE|http://not-now.com]
+* PASSED G.E.D in South Korea [PROFILE]|[http://not-now.com]
 * Age 18 ( Born In 1999 )
 * Live in Metropolitan Area
 * Love English, Pop-Song(Onerepublic, Avicii, Keane, Coldplay, etc..), Coffee
