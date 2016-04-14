@@ -1,11 +1,10 @@
-#Welcome to Jaeseung172's Cautious Octo Potato Page.#
 
           ,'""`.
          / _  _ \
          |(@)(@)|
          )  __  (
         /,'))((`.\
-       (( ((  )) ))      hh
+       (( ((  )) ))      WELCOME! TO MY OCTOPUS PAGE!
         `\ `)(' /'
 
 ### Python Devlopment
