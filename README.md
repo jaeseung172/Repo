@@ -17,11 +17,11 @@
 Some Information About Me.
 
 * Jaeseung Lee from South Korea
-* PASSED G.E.D in South Korea [PROFILE]|[http://not-now.com]
+* Graduated High School to Take G.E.D
 * Age 18 ( Born In 1999 )
 * Live in Metropolitan Area
 * Love English, Pop-Song(Onerepublic, Avicii, Keane, Coldplay, etc..), Coffee
-* I LOVE PYTHON.
+* Favorite Programming Language : Python(Flask), HTML, Javascript, CSS(Just a little)
 * Email Me : jaeseung172@naver.com
 
 ### File Index
