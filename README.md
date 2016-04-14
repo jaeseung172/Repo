@@ -20,7 +20,7 @@ Some Information About Me.
 * Graduated High School to Take G.E.D
 * Age 18 ( Born In 1999 )
 * Live in Metropolitan Area
-* Love English, Pop-Song(Onerepublic, Avicii, Keane, Coldplay, etc..), Coffee
+* Love English, Pop-Song(Onerepublic, Avicii, Keane, Coldplay, etc..), Milk Tea
 * Favorite Programming Language : Python(Flask), HTML, Javascript, CSS(Just a little)
 * Email Me : jaeseung172@naver.com
 
