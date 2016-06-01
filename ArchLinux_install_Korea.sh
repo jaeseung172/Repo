@@ -35,7 +35,7 @@ genfstab -p /mnt >>/mnt/etc/fstab
 arch-chroot /mnt /bin/bash <<EOF
 # set initial hostname
 echo "archlinux-$(date -I)" >/etc/hostname
-# set initial timezone to America/Los_Angeles
+# set initial timezone to SEOUL, SOUTH KOREA. 
 ln -s /usr/share/zoneinfo/Asia/Seoul /etc/localtime
 # set initial locale
 locale >/etc/locale.conf
