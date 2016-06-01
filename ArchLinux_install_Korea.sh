@@ -1,3 +1,4 @@
+# http://bit.ly/1XeLCDV
 # make 2 partitions on the disk.
 parted -s /dev/sda mktable msdos
 parted -s /dev/sda mkpart primary 0% 100m
