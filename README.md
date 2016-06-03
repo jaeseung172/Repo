@@ -25,3 +25,7 @@ Some Information About Me.
 
 ### File Index
 - R 시작해 보기.ipynb -> Getting Started With R file with ipython notebook
+
+
+### About Archlinux blah blah.sh
+See Archlinux-KOR-Specifi.md 
