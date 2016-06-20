@@ -1,0 +1,8 @@
+##
+## Arch Linux repository mirrorlist
+## Generated on 2016-06-20
+##
+
+## South Korea
+Server = http://ftp.kaist.ac.kr/ArchLinux/$repo/os/$arch
+Server = http://mirror.premi.st/archlinux/$repo/os/$arch
