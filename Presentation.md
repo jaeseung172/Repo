@@ -18,7 +18,7 @@
 
 	- Store Will Suggest Five other items most often bought by buyers of that item
 	
-	     <user-id><,><bought-item> 
+	- USER ID , Bought Item 
 	
 	- Set of Large Transctions : Transaction ID, Data, Price, etc
 
