@@ -139,7 +139,7 @@ They Have Two Interactions.
 
 **Then map() will output Like this**
 
-> <Pi, Pj>, N 
+>  <Pi, Pj>, N 
 
 # I'll Upload This Code ASAP Too
 
