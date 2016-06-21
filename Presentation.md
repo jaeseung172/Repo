@@ -4,6 +4,8 @@
 
 ### Cause Java is Too hard =( 
 
+#### I didn't Complete 
+
 1. Customers Who Bought This Item Also Bought (CWBTIAB) 
 
 - Amazon.com's Feature
@@ -143,4 +145,29 @@ They Have Two Interactions.
 
 # I'll Upload This Code ASAP Too
 
-# Thanks! 
+# Friendship Connection
+
+#### Insert Image Here < Friendship Spider Image > On Pg 305
+
+#### INPUT Data
+
+    # hadoop fs -cat /data/friends.txt
+    1 1, 2, 3, 4, 5, 6, 7, 8
+    2 1, 3, 4, 5, 7
+    3 1, 2
+    4 1, 2, 6
+    5 1, 2
+    6 1, 4
+    7 1, 2
+    8 1
+    
+#### OutPut Would be... 
+
+    <USER><:><F(M: [I1, I2, I3, ...]), ...>
+    
+- F is a friend recommended to USER .
+- M is the number of mutual friends.
+- I1, I2, I3, ... are the IDs of mutual friends.
+
+![IMG](Friend_Output.png)
+
