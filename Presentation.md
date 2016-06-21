@@ -145,7 +145,7 @@ They Have Two Interactions.
 
 # Friendship Connection
 
-**IMAGE ← Please Look IMAGE name is FriendshipGraph**
+![IMG](FriendshipGraph.jpg)
 
 #### INPUT Data
 
@@ -167,5 +167,5 @@ They Have Two Interactions.
 - M is the number of mutual friends.
 - I1, I2, I3, ... are the IDs of mutual friends.
 
-**IMAGE ← Please Look IMAGE name is Friend_Output**
+![IMG](Friend_Output.jpg)
 
