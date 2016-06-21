@@ -17,8 +17,8 @@
 	- Contains User-id and Bought-Item for Each Sale
 
 	- Store Will Suggest Five other items most often bought by buyers of that item
-
-	> <user-id><,><bought-item> 
+	
+	     <user-id><,><bought-item> 
 	
 	- Set of Large Transctions : Transaction ID, Data, Price, etc
 
@@ -111,22 +111,22 @@ They Have Two Interactions.
 
 **Key Value Pairs, It would  be**
 
-> [<p1, p2>, 1]
-> [<p1, p3>, 1]
-> [<p2, p3>, 1]
+    [<p1, p2>, 1]
+    [<p1, p3>, 1]
+    [<p2, p3>, 1]
 
 
 **If T1, map() will generate..**
 
-> [<p1, p2>, 1]
-> [<p1, p3>, 1]
-> [<p2, p3>, 1] 
+    [<p1, p2>, 1] 
+    [<p1, p3>, 1] 
+    [<p2, p3>, 1] 
 
 **Then T2, map() will generate..**
 
-> [<p1, p3>, 1]
-> [<p1, p2>, 1]
-> [<p3, p2>, 1]
+    [<p1, p3>, 1]
+    [<p1, p2>, 1]
+    [<p3, p2>, 1]
 
 **If input is..**
 
@@ -139,7 +139,7 @@ They Have Two Interactions.
 
 **Then map() will output Like this**
 
-> "<Pi, Pj>, N"
+     <Pi, Pj>, N
 
 # I'll Upload This Code ASAP Too
 
