@@ -18,7 +18,7 @@
 
 	- Store Will Suggest Five other items most often bought by buyers of that item
 
-	- <user-id><,><bought-item> 
+	> <user-id><,><bought-item> 
 	
 	- Set of Large Transctions : Transaction ID, Data, Price, etc
 
@@ -55,17 +55,17 @@ They Have Two Interactions.
 
 **If Input Like This...**
 
-K -> { (a, 1), (b, 2), (c, 4), (d, 3) } <br />
-K -> { (a, 2),         (c, 2)         } <br />
-K -> { (a, 3), (b, 5),         (d, 5) } <br /> 
+> K -> { (a, 1), (b, 2), (c, 4), (d, 3) } <br />
+> K -> { (a, 2),         (c, 2)         } <br />
+> K -> { (a, 3), (b, 5),         (d, 5) } <br /> 
 
 **Then Output Would be...**
 
-K -> { (a, 1+2+3), (b, 2+5), (c, 4+2), (d, 3+5) }
+> K -> { (a, 1+2+3), (b, 2+5), (c, 4+2), (d, 3+5) }
 
 **OR**
 
-K -> { (a, 6), (b, 7), (c, 6), (d, 8) }
+> K -> { (a, 6), (b, 7), (c, 6), (d, 8) }
 
 **I'll Upload Code ASAP**
 
@@ -111,35 +111,35 @@ K -> { (a, 6), (b, 7), (c, 6), (d, 8) }
 
 **Key Value Pairs, It would  be**
 
-[<p1, p2>, 1]<br />
-[<p1, p3>, 1]<br />
-[<p2, p3>, 1]<br />
+> [<p1, p2>, 1]
+> [<p1, p3>, 1]
+> [<p2, p3>, 1]
 
 
 **If T1, map() will generate..**
 
-[<p1, p2>, 1]<br />
-[<p1, p3>, 1]<br />
-[<p2, p3>, 1]<br /> 
+> [<p1, p2>, 1]
+> [<p1, p3>, 1]
+> [<p2, p3>, 1] 
 
 **Then T2, map() will generate..**
 
-[<p1, p3>, 1]<br />
-[<p1, p2>, 1]<br />
-[<p3, p2>, 1]<br />
+> [<p1, p3>, 1]
+> [<p1, p2>, 1]
+> [<p3, p2>, 1]
 
 **If input is..**
 
-(S1, S2)<br />
-(S1, S3)<br />
-(S1, S4)<br />
-(S2, S3)<br />
-(S2, S4)<br />
-(S3, S4)<br />
+> (S1, S2)
+> (S1, S3)
+> (S1, S4)
+> (S2, S3)
+> (S2, S4)
+> (S3, S4)
 
-**Then map() will output..**
+**Then map() will output Like this**
 
-Format : <Pi, Pj>, N 
+> <Pi, Pj>, N 
 
 # I'll Upload This Code ASAP Too
 
