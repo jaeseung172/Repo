@@ -1,10 +1,8 @@
 # Chapter 9. Remcommendation Engines Using Mapreduce
 
-### Java code : Author's Github Page, I can't Make it :(
+**Java code : Author's Github Page, I can't Make it :( Cause Java is Too hard =(**
 
-### Cause Java is Too hard =( 
-
-#### I didn't Complete 
+#### I'll Upload Codes ASAP 
 
 1. Customers Who Bought This Item Also Bought (CWBTIAB) 
 
@@ -147,7 +145,7 @@ They Have Two Interactions.
 
 # Friendship Connection
 
-#### Insert Image Here < Friendship Spider Image > On Pg 305
+![IMG](FriendshipGraph.png)
 
 #### INPUT Data
 
