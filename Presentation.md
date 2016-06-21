@@ -130,12 +130,12 @@ They Have Two Interactions.
 
 **If input is..**
 
-> (S1, S2)
-> (S1, S3)
-> (S1, S4)
-> (S2, S3)
-> (S2, S4)
-> (S3, S4)
+> (S1, S2) <br />
+> (S1, S3) <br />
+> (S1, S4) <br />
+> (S2, S3) <br />
+> (S2, S4) <br />
+> (S3, S4) <br />
 
 **Then map() will output Like this**
 
