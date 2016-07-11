@@ -1,5 +1,7 @@
 # File Lists 
 
+**바이오스핀 [빅바이오](https://github.com/biospin/BigBio) 라는 그룹에 참여하여 발표했던 파일 리스트입니다, 찾으면 더 업로드하도록 하겠습니다!**
+
 1. Getting Started with R 1-2 - R 튜토리얼 이것저것 해봄, ipython notebook 으로 제작하여 바로 열림 [링크](https://github.com/jaeseung172/cautious-octo-potato/blob/master/BigBio_Presentation/Getting_Started_with_R_1-2.ipynb)
 
 2. Getting Started with RDDs - Python Spark RDD 사용해봄, ipython notebook 으로 제작하여 바로 열릴것임 [링크](https://github.com/jaeseung172/cautious-octo-potato/blob/master/BigBio_Presentation/Getting_Started_with_RDDs.ipynb)
