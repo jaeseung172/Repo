@@ -1,6 +1,8 @@
 
 ![IMG](Snoopy.PNG)
 
+<font color="red">공지! 각 폴더속 파일들이 드문드문 빠져있습니다 시간이 나는대로 틈틈히 추가하여 정리하도록 하겠습니다!</font>
+
 Changed : 2016-07-11 Monday(**월요일**)
 
 SNOOPY! 
