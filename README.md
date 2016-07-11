@@ -25,5 +25,5 @@ SNOOPY!
 
 | 책 제목                         | 기간        | 링크 |
 |---------------------------------|-------------|------|
-| 대학교양과정 생명과학의 이해    | 2 Weeks Ago | [링크](https://github.com/jaeseung172/Genomics/blob/master/%EA%B5%90%EC%96%91%EC%9D%98%ED%95%991.pdf) |
+| 대학교양과정 생명과학의 이해 - 1    | 2 Weeks Ago | [링크](https://github.com/jaeseung172/Genomics/blob/master/%EA%B5%90%EC%96%91%EC%9D%98%ED%95%991.pdf) |
 | 모름                            | 모름        |모름  |
