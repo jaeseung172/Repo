@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
   <head>
     <title>R Bio Processing</title>
@@ -21,37 +21,17 @@
 
 class: center, middle
 
-# R 바이오 프로세싱
+# R 바이오 프로세싱 - 1
 
 발표자 : 이승우
-
----
-
-## 저의 **간략**한 소개
-
-- 大韓民國의 고등학교 2학년입니다
-
-- 고등검정고시를 통과하여 대입수능을 준비하고 있습니다
-
-	- 시험 전날까지 스터디 다니며 코딩하며 놀았습니다, 그리고 평균을 훨씬 뛰어넘어서 통과하였습니다
-
-	- 기상천외한 방법으로 공부하고 있습니다 (예, 고등학교 책이 싫어서 대학교 책을 읽어버린다던가... )
-
-	- 초등학교 다닐때부터 코딩하는 의사가 되어보고 싶다는 꿈이 있었습니다 ~~절대 그분은 아닙니다~~ <br /> ~~안.. 읍읍 당신 누구야!~~
-
-- 주로 의학분야, 코딩에 관심이 많습니다 [GitHub](http://www.github.com/jaeseung172/Repo)에 자료를 올려두고 있습니다 
-
-	- 오늘 했던 발표자료까지 포함해서 다 올려두고 있습니다
-
-- 이미 카페인을 사랑한지 오래입니다 ~~레드불, 몬스터, 스타벅스 등등~~
-
+        
 ---
 
 # 오늘 발표할것은 
 
 ~~반 삽질 반 스트레스 반 카페인~~
 
-- 주피터 노트북과 R 커널을 셋팅해볼 것이며 (되어있다면 패스합니다)
+~~- 주피터 노트북과 R 커널을 셋팅해볼 것이며 (되어있다면 패스합니다)~~
 
 - R Bioconductor, SeqinR 설치 해볼것이며
 
@@ -65,28 +45,9 @@ class: center, middle
 
 ---
 
-### 주피터 노트북과 R 커널을 설치하기
-
-- 주피터 노트북을 사용하는 이유는? 
-
-	- Markdown을 지원하여 몇가지의 문법만 알면 비교적 쉽게 <br />문서를 작성할 수 있습니다 (이 슬라이드도 마크다운으로 작성했어요~)
-
-	- 발표할때 따로 다른것들을 사용할 필요가 없습니다
-
-	- 그리고 깃허브에서 NBviewer(?) 을 지원해서 별도의 뷰어를 설치하지 않고 볼 수 있습니다
-
-- 설치방법
-	
-	- 파이썬과 Anaconda 를 설치합니다 [파이썬 다운로드](http://python.org) [Anaconda 다운로드](https://www.continuum.io/downloads) 
-
-	- 그 후에 터미널(혹은 명령 프롬프트)에서 **jupyter notebook** 을 입력 하면 됩니다 (버추얼박스는 포트포워딩 + 갖가지 설정이 쬐끔 필요)
-
-	- R은 [여기-한국 미러](http://cran.nexr.com/)에서 다운로드 받으시거나 리눅스 터미널에서 **sudo apt-get install r-base** 를 입력하세요
----
-
 class: center, middle
-
-### IRKerenl, R Bioconductor, SeqinR <br />을 설치해봅시다
+        
+## IRKerenl, R Bioconductor, SeqinR 을 설치해봅시다
 
 ---
 
@@ -101,16 +62,6 @@ class: center, middle
 > devtools::install_github('IRkernel/IRkernel')
 
 > IRkernel::installspec() // 설치 완료!
-
----
-
-class: center, middle
-
-![IMG](IMG1.jpg)
-
-본격적인 삽질을 시작해보도록 하겠습니다
-
-~~야 이놈들아 StackOverflow불러~~
 
 ---
 
@@ -155,14 +106,6 @@ class: center, middle
 > deb http://cran.rstudio.com/bin/linux/ubuntu trusty/
 
 - 그 후에 **sudo apt-get install libssl-dev** 를 입력하여 설치합니다
-
----
-
-다시 R GUI 를 열어서 [6페이지를](#6) 다시 시도해보시면 될것입니다
-
-- VirtualBox Port Forwarding 관련
-
-![IMG](IMG3.jpg)
 
 ---
 
