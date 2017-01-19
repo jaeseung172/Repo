@@ -7,3 +7,11 @@
 ### Profile
 
 - Born: In Suwon, Live: In Yongin-City (1999, 05, 18th)
+
+- School Status
+
+Elementary School|Middle School|High School
+---|---|---
+Graduated|Graduated|Passed By GED Test
+
+- Then What I am Doing On High School Aged? (내가 고등검정고시를 통과하고 뭘 했는가?): Please Read Profile.md on This Repo
