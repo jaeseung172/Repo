@@ -14,4 +14,8 @@ Elementary School|Middle School|High School
 ---|---|---
 Graduated|Graduated|Passed By GED Test
 
-- Then What I am Doing On High School Aged? (내가 고등검정고시를 통과하고 뭘 했는가?): Please Read Profile.md on This Repo
+> **For Korean**:
+> 혹시 저에 대해서 뭔가 필요한 정보가 있다면, Profile.md를 읽어 주세요.
+
+> **For Non-Korean People**:
+> Please Read Profile(EN).md about my Projects and Informations
