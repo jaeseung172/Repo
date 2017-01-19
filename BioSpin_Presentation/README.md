@@ -1,26 +1,12 @@
-# File Lists 
+Welcome to Biospin Directory
 
-**바이오스핀 [빅바이오](https://github.com/biospin/BigBio) 라는 그룹에 참여하여 발표했던 파일 리스트입니다, 찾으면 더 업로드하도록 하겠습니다!**
+```
+이 페이지는 지난 1년간 매주 화요일 신촌에서 했었던 스터디에서 발표자로 참여해서 발표했던 자료들을 모아놓은 디렉토리 입니다!
 
-- Getting Started with R 1-2 - R 튜토리얼 이것저것 해봄, ipython notebook 으로 제작하여 바로 열림 [링크](https://github.com/jaeseung172/cautious-octo-potato/blob/master/BigBio_Presentation/Getting_Started_with_R_1-2.ipynb)
+매주 화요일 신촌 토즈에서 진행합니다, 본점에서 진행할때도 있고 아트레온 센터에서 진행할때도 있으니 참고하세요! 그리고 지원은 NAVER D2에서 받았었고, 지금은 KossLab에서 받고 있습니다
 
-- Getting Started with RDDs - Python Spark RDD 사용해봄, ipython notebook 으로 제작하여 바로 열릴것임 [링크](https://github.com/jaeseung172/cautious-octo-potato/blob/master/BigBio_Presentation/Getting_Started_with_RDDs.ipynb)
+가끔은 지원이 끊겨서 신촌 세브란스 병원에서 진행할때도 있습니다, 때에 따라서 위치가 바뀌는 경우도 있으니 패이스북 페이지에 바이오스핀이라고 검색하셔서 가입하시면 관리자분과 그 그룹 관리자분께서 스터디 날 2~3일 전에 공지해 주시니 정확한 위치를 참고하셔서 스터디에 참여하시길 바랍니다
 
-- Presentation.md - 추천엔진 만들어보기, 친구추천엔진 만들어보기 via MapReduce, 마크다운으로 제작하여 열림 [링크](https://github.com/jaeseung172/cautious-octo-potato/blob/master/BigBio_Presentation/Presentation.md)
-
-> |- 이미지파일
-
->	|- Friend_Output.png - 사진, 마지막 아웃풋 사진
-
->	|- FriendshipGraph.png - 사진, 친구 관계 그래프 사진
-
-- 구글지노믹스 빠이쁘라인 실행.md - 구글 지노믹스에서 파이프라인 실행해보기 마크다운으로 제작하여 열림 [링크](https://github.com/jaeseung172/cautious-octo-potato/blob/master/BigBio_Presentation/%EA%B5%AC%EA%B8%80%EC%A7%80%EB%85%B8%EB%AF%B9%EC%8A%A4_%EB%B9%A0%EC%9D%B4%EC%81%98%EB%9D%BC%EC%9D%B8_%EC%8B%A4%ED%96%89.md)
-
-> |- 기타 파일
-
->	|- samtools_index.yaml - yaml 파일, yaml 파일로 여러 설정파일을 가지고 있음, 위의 마크다운 파일을 읽으면 알게 될것임. 
-
-- Google Genomics Getting Started - From Biospin/Bigbio Github [링크](https://github.com/biospin/BigBio/blob/master/part04/week01_160531/Getting%20Started%20With%20Google%20Genomics.pdf)
-
-> glcloud alpha genomics API 레퍼런스 Documentation은 [여기](https://cloud.google.com/sdk/gcloud/reference/alpha/)에 있습니다
+저작권은 저에게 없을 듯 하나, 만약에나 제것을 사용하신다면 어디에서 퍼왔다 정도는 표시해주세요!
+```
 
