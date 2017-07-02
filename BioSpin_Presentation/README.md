@@ -1,12 +1,16 @@
-Welcome to Biospin Directory
+﻿### _Biospin
 
-
->이 페이지는 지난 1년간 매주 화요일 신촌에서 했었던 스터디에서 발표자로 참여해서 발표했던 자료들을 모아놓은 디렉토리 입니다!
->
->매주 화요일 신촌 토즈에서 진행합니다, 본점에서 진행할때도 있고 아트레온 센터에서 진행할때도 있으니 참고하세요! 그리고 지원은 NAVER D2에서 받았었고, 지금은 KossLab에서 받고 있습니다
->
->가끔은 지원이 끊겨서 신촌 세브란스 병원에서 진행할때도 있습니다, 때에 따라서 위치가 바뀌는 경우도 있으니 패이스북 페이지에 바이오스핀이라고 검색하셔서 가입하시면 관리자분과 그 그룹 관리자분께서 스터디 날 2~3일 전에 공지해 주시니 정확한 위치를 참고하셔서 스터디에 참여하시길 바랍니다
->
->저작권은 저에게 없을 듯 하나, 만약에나 제것을 사용하신다면 어디에서 퍼왔다 정도는 표시해주세요!
-
-> **죄송합니다! 제가 일년에 거의 안빠지고 나가고 발표를 수도없이 많이해서 자료가 너무 많아서 정리에 난항을 겪고 있습니다, 빨리 업로드하도록 하겠습니다**
+폴더명|설명|비고
+---|---|---
+Biomedical Data Science|Look [PH525x Series](http://genomicsclass.github.io/book/)|본 폴더 들어가면 바로 볼 수 있음 (파일 타입: 마크다운) // ch01, 02로 나뉘어져 있으나 사실 한 발표 챕터임
+Biomedical Data Science ch02|Look [PH525x Series](http://genomicsclass.github.io/book/)|본 폴더 들어가면 바로 볼 수 있음 (파일 타입: 마크다운)
+Getting Started With R|R 기초 튜토리얼|주피터 노트북 뷰어 [링크](https://nbviewer.jupyter.org/github/jaeseung172/Repo/blob/master/BioSpin_Presentation/Getting_Started_with_R/Getting_Started_with_R_1-2.ipynb)
+Getting Started with RDD|PySpark RDD 튜토리얼|주피터 노트북 뷰어 [링크](https://nbviewer.jupyter.org/github/jaeseung172/Repo/blob/master/BioSpin_Presentation/Getting_Started_with_RDD/Getting_Started_with_RDDs.ipynb)
+Play With RDD|PySpark RDD 튜토리얼 2|주피터 노트북 뷰어 [링크](https://nbviewer.jupyter.org/github/jaeseung172/Repo/blob/master/BioSpin_Presentation/Play_With_RDDs/Play_With_RDDs_SeungWoo_LEE.ipynb)
+Google Genomics Pipeline|gcloud genomics pipeline tutorial|본 폴더 들어가면 바로 볼 수 있음 (파일 타입: 마크다운)
+Neural Network Brief CNN|뉴럴 네트워크의 기초와 CNN(합성곱 신경망)에 대한 기초적인 원리|PDF로 제공 (Made by Remark.js)
+Project JSRT|JSRT 데이터 분석과, 이미지 변환|주피터 노트북 뷰어 [링크](https://nbviewer.jupyter.org/github/jaeseung172/Repo/blob/master/BioSpin_Presentation/Project_JSRT/JSRT%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D.ipynb)
+Recommendation Engine|추천엔진에 대한 이론|본 폴더 들어가면 바로 볼 수 있음 (파일 타입: 마크다운)
+SeqinR Presentation|처음 R+Bio 발표할때 했던 발표자료, 댕기열 DNA 분석, 나병 DNA 분석|폴더 들어가면 웹 프레젠테이션 링크 제공, 주피터 노트북 뷰어 [링크](https://nbviewer.jupyter.org/github/jaeseung172/Repo/blob/master/BioSpin_Presentation/SeqinR_Presentation/R_Bio_Presentation_Pt1.ipynb)
+Deep Learning from Scratch 06|밑바닥부터 시작하는 딥러닝 챕터 06 - 여러가지 **(학습에 도움되는)** 기술들 발표자료|SGD에 대한 발표자료 - PDF로 제공 폴더이동해서 다운로드, 그 외는 추후 업로드
+Structured Data Tutorial|ADsP 시험 튜토리얼|주피터 노트북 뷰어 [링크](https://nbviewer.jupyter.org/github/jaeseung172/Repo/blob/master/BioSpin_Presentation/%EC%A0%95%ED%98%95_%EB%8D%B0%EC%9D%B4%ED%84%B0_%EB%B6%84%EC%84%9D/%EC%A0%95%ED%98%95%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D.ipynb)
