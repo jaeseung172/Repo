@@ -13,7 +13,7 @@
 
 [Cran Nexr](http://cran.nexr.com/), [서울대 보건대학원](http://healthstat.snu.ac.kr/CRAN/), [UNIST Genome Inst.](http://cran.biodisk.org/)
 
-![](Scr1.png)
+![](https://raw.githubusercontent.com/jaeseung172/Repo/master/BioSpin_Presentation/Biomedical_Data_science/ch_01/Scr1.png)
 
 여기에서 각 운영체제에 따라서 윈도우, 리눅스, 맥 을 클릭하여 설치 도구를 다운로드 한 후에, 적절한 지시에 따르면 됩니다.
 
@@ -36,7 +36,7 @@ devtools::install_github('IRkernel/IRkernel')
 IRkernel::installspec()  # to register the kernel in the current R installation
 ```
 
-![](Scr2.png)
+![](https://raw.githubusercontent.com/jaeseung172/Repo/master/BioSpin_Presentation/Biomedical_Data_science/ch_01/Scr2.png)
 
 - Conda install 명령어를 통한 주피터에 커널 추가하는 방법
 
@@ -527,7 +527,7 @@ round(sample(x,10),1)
 ##  [1] 67.4 64.9 62.9 69.2 72.3 69.3 65.9 65.2 69.8 69.1
 ```
 
-![IMG](Scr5.png)
+![IMG](https://raw.githubusercontent.com/jaeseung172/Repo/master/BioSpin_Presentation/Biomedical_Data_science/ch_01/)
 
 1이 무슨일을 하는건가 싶어서 2를 집어넣고 3을 집어넣어 봤더니, 소숫점 자릿수 역할을 하는거 같음.
 
@@ -557,7 +557,7 @@ hist(x)
 ## 히스토그램으로 만들어주는 함수에다가 x값을 집어 넣으면...
 ```
 
-![IMG](Scr6.png)
+![IMG](https://raw.githubusercontent.com/jaeseung172/Repo/master/BioSpin_Presentation/Biomedical_Data_science/ch_01/Scr6.png)
 
 근데 옆에 설명을 추가하고, 좀더 멋지게 만들려면 아래의 코드를 추가하면 됩니다.
 
@@ -566,7 +566,7 @@ bins <- seq(smallest, largest)
 hist(x,breaks=bins,xlab="Height (in inches)",main="Adult men heights")
 ```
 
-![IMG](Scr7.png)
+![IMG](https://raw.githubusercontent.com/jaeseung172/Repo/master/BioSpin_Presentation/Biomedical_Data_science/ch_01/Scr7.png)
 
 ### Probaility Distribution (확률 분포)
 
