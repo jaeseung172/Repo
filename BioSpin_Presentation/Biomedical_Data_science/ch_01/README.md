@@ -188,12 +188,9 @@ femaleMiceWeights.csv 파일을 읽어서 출력해보기
 dat <- read.csv('femaleMiceWeights.csv')
 ```
 
-
 ```R
 dat
 ```
-
-
 <table>
 <thead><tr><th></th><th scope=col>Diet</th><th scope=col>Bodyweight</th></tr></thead>
 <tbody>
@@ -418,7 +415,7 @@ mean(Value$sleep_total)
 
 ~~페이퍼를 참고하라고 했는데, 없어져서 크게 당황하여 넘어가도록 하겠습니다~~
 
-$+-$ 값과 $P < 0.001$ 에서 $+-$ 의 값과 P값은 뭘 뜻하는 걸까요?
+± 값과 P ＜ 0.001 에서 ± 의 값과 P값은 뭘 뜻하는 걸까요?
 
 여기에서는 쥐 데이터베이스를 이용하여 P값과 ± Value 에 대하여 알아보고, 그것을 R로 구현해 보도록 하겠습니다.
 
@@ -557,7 +554,7 @@ hist(x)
 ## 히스토그램으로 만들어주는 함수에다가 x값을 집어 넣으면...
 ```
 
-![IMG](https://raw.githubusercontent.com/jaeseung172/Repo/master/BioSpin_Presentation/Biomedical_Data_science/ch_01/Scr6.png)
+![IMG](Scr6.png)
 
 근데 옆에 설명을 추가하고, 좀더 멋지게 만들려면 아래의 코드를 추가하면 됩니다.
 
@@ -566,11 +563,11 @@ bins <- seq(smallest, largest)
 hist(x,breaks=bins,xlab="Height (in inches)",main="Adult men heights")
 ```
 
-![IMG](https://raw.githubusercontent.com/jaeseung172/Repo/master/BioSpin_Presentation/Biomedical_Data_science/ch_01/Scr7.png)
+![IMG](Scr7.png)
 
 ### Probaility Distribution (확률 분포)
 
-![IMG](https://wikimedia.org/api/rest_v1/media/math/render/svg/b7ae6784958a2bb100f46b72d3842ab3b42f8f40)
+<img src="Math_Not.png" style="height: 60px;"></img>
 
 ```R
 n <- 100
